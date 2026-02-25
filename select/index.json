@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "butterflies.",
+  "base_artist": "Brent Faiyaz",
+  "createdAt": "2026-02-25T15:03:58.376632Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Butterflies",
+      "artist": "Kacey Musgraves",
+      "has_synced": true,
+      "path": "select/01_Butterflies_Kacey_Musgraves.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Butterflies",
+      "artist": "Leon Vynehall",
+      "has_synced": false,
+      "path": "select/02_Butterflies_Leon_Vynehall.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Butterflies",
+      "artist": "Little Dragon",
+      "has_synced": true,
+      "path": "select/03_Butterflies_Little_Dragon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Butterflies",
+      "artist": "Jacob Collier",
+      "has_synced": true,
+      "path": "select/04_Butterflies_Jacob_Collier.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Butterflies",
+      "artist": "Minipop",
+      "has_synced": false,
+      "path": "select/05_Butterflies_Minipop.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Butterflies and Hurricanes",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/06_Butterflies_and_Hurricanes_Muse.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Butterflies & Hurricanes",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/07_Butterflies_&_Hurricanes_Muse.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Butterflies (with Starrah & Four Tet)",
+      "artist": "Skrillex feat. Starrah & Four Tet",
+      "has_synced": false,
+      "path": "select/08_Butterflies_(with_Starrah_&_Four_Tet)_Skrillex_feat._Starrah_&_Four_Tet.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "No Butterflies, No Nothing",
+      "artist": "Erika de Casier",
+      "has_synced": true,
+      "path": "select/09_No_Butterflies,_No_Nothing_Erika_de_Casier.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Butterflies (feat. Not3s)",
+      "artist": "AJ Tracey feat. Not3s",
+      "has_synced": false,
+      "path": "select/10_Butterflies_(feat._Not3s)_AJ_Tracey_feat._Not3s.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Butterflies (feat. Not3s)",
+      "artist": "AJ Tracey",
+      "has_synced": false,
+      "path": "select/11_Butterflies_(feat._Not3s)_AJ_Tracey.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Butterflies",
+      "artist": "Automatic Loveletter",
+      "has_synced": false,
+      "path": "select/12_Butterflies_Automatic_Loveletter.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Butterflies",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/13_Butterflies_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Butterflies",
+      "artist": "Sia",
+      "has_synced": true,
+      "path": "select/14_Butterflies_Sia.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dead Butterflies (feat. Kano & Roxani Arias)",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/15_Dead_Butterflies_(feat._Kano_&_Roxani_Arias)_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Why the Butterflies (Piano & a Microphone 1983 Version)",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/16_Why_the_Butterflies_(Piano_&_a_Microphone_1983_Version)_Prince.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Why the Butterflies",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/17_Why_the_Butterflies_Prince.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Get Hot & Feel The Butterflies",
+      "artist": "VUKOVI",
+      "has_synced": true,
+      "path": "select/18_Get_Hot_&_Feel_The_Butterflies_VUKOVI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "butterflies.",
+      "artist": "Brent Faiyaz",
+      "has_synced": false,
+      "path": "select/pl_01_butterflies._Brent_Faiyaz.txt"
+    }
+  ]
+}
